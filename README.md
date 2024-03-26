@@ -1,6 +1,6 @@
 # Project Overview
 
-This project introduces "risk.py," a Python script developed for veterinary purposes, focusing on predicting the risk of bone fractures in dogs. It integrates a sophisticated machine learning pipeline, including preprocessing steps for normalization of numerical data and encoding of categorical data, utilizing a RandomForestClassifier for the prediction mechanism. The primary objective is to assess and present the fracture risk based on various inputs such as the dog's age, gender, breed, and weight. The outcomes, alongside the input data, are systematically compiled into an Excel file named "Assessed fracture risk.xlsx," facilitating further analysis and record-keeping.
+This project introduces the "Canine Bone Fracture Risk Assessment Tool" a Machine Learning algorithm developed for veterinary purposes, focusing on predicting the risk of bone fractures in dogs. It integrates a sophisticated machine learning pipeline, including preprocessing steps for normalization of numerical data and encoding of categorical data, utilizing a RandomForestClassifier for the prediction mechanism. The primary objective is to assess and present the fracture risk based on various inputs such as the dog's age, gender, breed, and weight. The outcomes, alongside the input data, are systematically compiled into an Excel file named "Assessed fracture risk.xlsx," facilitating further analysis and record-keeping.
 
 ## Installation Requirements
 
