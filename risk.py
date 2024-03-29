@@ -82,7 +82,7 @@ def validate_input(input_features):
     # Normalize and validate breed
     breed = input_features['Breed'].strip().title()
     if breed not in valid_breeds:
-        return False, f"Invalid breed: {breed}. Please enter a breed exactly as listed."
+        return False, f"Invalid breed: {breed}. Please enter a breed exactly as listed if the patient is mixed breed type - Mongrel."
 
     return True, "Valid input."
 
